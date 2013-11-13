@@ -10,5 +10,5 @@
   "scripts": [
     "lib/protocol.js"
   ],
-  "repo": "https://github.com/NetEase/pomelo-protocol"
+  "repo": "https://github.com/ShortTailLab/pomelo-protocol"
 }
